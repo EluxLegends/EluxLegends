@@ -5,6 +5,21 @@
 
 
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" width="42" alt="python logo"  />
+</div>
+
+
+
+
+
+
+
+
+
 
 #### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
