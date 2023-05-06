@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
 <!--
 **EluxLegends/EluxLegends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
