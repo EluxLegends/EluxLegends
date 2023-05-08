@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eluxlegends&label=Profile%20views&color=0e75b6&style=flat" alt="eluxlegends" /> </p>
 
 
 
@@ -32,7 +32,6 @@
 </a>
 </p>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<1075416307962495036>)
 
 
 
