@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluxlegends&label=Profile%20views&color=0e75b6&style=flat" alt="eluxlegends" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eluxlegends" alt="eluxlegends" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=elexlegends&theme=onedark)](https://github.com/eluxlegends/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eluxlegends&theme=onedark)](https://github.com/eluxlegends/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
