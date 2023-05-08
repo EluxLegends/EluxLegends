@@ -32,7 +32,7 @@
 </a>
 </p>
 
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<1075416307962495036>)
 
 
 
