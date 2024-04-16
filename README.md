@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1075416307962495036?idleMessage=Currently%20Doing%20Ye%20Mum)](https://discord.com/users/1075416307962495036)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1075416307962495036?idleMessage=Currently%20Doing%20Ye%20Mum?showDisplayName=true)](https://discord.com/users/1075416307962495036)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluxlegends&label=Profile%20views&color=0e75b6&style=flat" alt="eluxlegends" /> </p>
 
