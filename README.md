@@ -31,13 +31,13 @@
 
 
 
-#### Daylily Random comic strip
+<!--#### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
-<p align="center">
+<!--<p align="center">
  <a href="https://xkcd.com/">
  <img src="https://imgs.xkcd.com/comics/college_knowledge.png" />
 </a>
-</p>
+</p>-->
 
 
 
